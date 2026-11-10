@@ -1,0 +1,7 @@
+customer_id,first_name,last_name,email,phone,city
+1,John,Doe,john@example.com,4031234567,Calgary
+2,Jane,Smith,jane@example.com,5871234567,Edmonton
+3,Robert,Brown,robert@example.com,7801234567,Lethbridge
+4,Alice,Johnson,alice@example.com,4039876543,Calgary
+5,Michael,Wilson,michael@example.com,5879876543,Edmonton
+6,Mikha,Wilson,mickah@example.com,9879876542,Edmonton
