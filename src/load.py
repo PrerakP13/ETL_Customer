@@ -48,7 +48,7 @@ def load_customers(data: pd.DataFrame) -> int:
         Number of records processed.
     """
 
-    if data.empty:
+    if not data.empty:
         print("No valid records to load.")
         return 0
 
